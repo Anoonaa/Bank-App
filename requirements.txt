@@ -1,9 +1,13 @@
-bandit==1.7.9
-bcrypt==4.2.0
+bandit>=1.7.0,<=1.7.5
+bcrypt
+six==1.16.0
+pycparser==2.22
 blinker==1.8.2
 click==8.1.7
 Faker==28.4.1
-Flask==3.0.3
+Flask==2.3.2
+Flask-WTF
+Flask-Login==0.6.2
 greenlet==3.0.3
 itsdangerous==2.2.0
 Jinja2==3.1.4
