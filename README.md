@@ -47,7 +47,7 @@ Go to a directory you want to work on
 **Clone the repository:**
 
 ```bash
-git clone git@github.com:Tafara-N/ClickBank.git
+git clone git@github.com:Anoonaa/Bank-App.git
 ```
 
 ## Activate Virtual Environment, [help](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
